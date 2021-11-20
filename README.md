@@ -1,4 +1,4 @@
-# Reminder App usinf Firebase Notification Flutter
+# Reminder App using Firebase Notification Flutter
 Reminder app which is used to create task as reminder.
 In this app, i have used Firebased notification.
 this app has both light theme and dark theme. on changing of theme you get a notification that your theme is changed
