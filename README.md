@@ -9,4 +9,4 @@ this app has both light theme and dark theme. on changing of theme you get a not
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development, and a full API reference..
